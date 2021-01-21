@@ -1,0 +1,33 @@
+body{ background:  teal; }
+
+/*h1{ color: navy; }*/
+h4{ color: rgb(255, 0, 0); }
+
+.bodyImg{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:  teal;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(9, 2, 107);
+}
+
+.grid{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.origami{
+  border: red;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  background-color: wheat;
+  width: 310px;
+  font-family: fantasy;
+}
+
+
+    
